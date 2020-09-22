@@ -3,6 +3,6 @@
    <title>Hello Jelastic</title>
  </head>
  <body>
-   <?php echo $word;?>
+   <?php echo change;?>
  </body>
 </html>
