@@ -3,6 +3,7 @@
    <title>Hello Jelastic</title>
  </head>
  <body>
-   <?php echo $HOSTNAME;?>
+   <?php 
+  echo gethostname();?>
  </body>
 </html>
