@@ -4,7 +4,7 @@
  </head>
  <body>
    <?php 
-  echo gethostname();
+  echo gethostname() "/n";
   echo 'Current PHP version: ' . phpversion();?>
  </body>
 </html>
