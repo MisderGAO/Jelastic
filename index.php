@@ -3,6 +3,6 @@
    <title>Hello Jelastic</title>
  </head>
  <body>
-   <?php echo change;?>
+   <?php echo change one;?>
  </body>
 </html>
