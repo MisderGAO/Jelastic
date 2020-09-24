@@ -3,6 +3,6 @@
    <title>Hello Jelastic</title>
  </head>
  <body>
-   <?php echo change1;?>
+   <?php echo $HOSTNAME;?>
  </body>
 </html>
